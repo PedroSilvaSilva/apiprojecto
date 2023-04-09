@@ -1,17 +1,8 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "name": "Pedro Silva"
-    },
-    {
-      "id": 2,
-      "name": "Gnukadas"
-    }
-  ],
+
   "posts": [
     {
       "id": 1,
+      "name": "Gnukadas"
       "user_id": 1,
       "title": "Example Post",
       "description": "This is an example post.",
@@ -23,6 +14,7 @@
     },
     {
       "id": 2,
+      "name": "Pedro Silva"
       "user_id": 2,
       "title": "Another Example Post",
       "description": "This is another example post.",

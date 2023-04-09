@@ -1,23 +1,11 @@
 {
-      "users": [
-      {
-        "id": 1,
-        "name": "Pedro Silva"
-      },
-      {
-        "id": 2,
-        "name": "Helena Correia"
-      },
-   {
-        "id": 3,
-        "name": "Gnukadas"
-      }
-    ],
     "posts": [
       {
+        "name": "Gnukadas",    
         "id": 1,
         "user_id": 1,
         "title": "Example Post",
+        "Task Priority": "5",
         "description": "This is an example post.",
         "image_url": "https://example.com/image.jpg",
         "created_at": "2023-04-09T12:00:00Z",
@@ -26,9 +14,11 @@
         "department": "IT"
       },
       {
+        "name": "Helena Correia",   
         "id": 2,
         "user_id": 2,
         "title": "Another Example Post",
+         "Task Priority": "3",
         "description": "This is another example post.",
         "image_url": "https://example.com/image2.jpg",
         "created_at": "2023-04-08T12:00:00Z",
@@ -37,15 +27,17 @@
         "department": "Marketing"
       },
         {
+        "name": "Pedro Silva",
         "id": 3,
         "user_id": 3,
         "title": "Example Post",
+        "Task Priority": "1",
         "description": "This is an example post.",
         "image_url": "https://example.com/image.jpg",
         "created_at": "2023-04-09T12:00:00Z",
         "finished_at": "2023-04-10T12:00:00Z",
         "status": "published",
-        "department": "IT"
+        "department": "Full Stack Development"
       }
     ]
   }

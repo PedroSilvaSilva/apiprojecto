@@ -26,6 +26,17 @@
             "Biografia": "texto aqui"
         },
          {
+             "user_id": 3,
+             "name": "Pedro Silva",
+             "Email": "pedrosilva@qualquercoisa.com",
+             "foto": "",
+             "data_nascimento": "",
+             "perfil_profissao": "Junior",
+             "localidade": "Junior",
+             "tipo_job": "remoto",
+             "Biografia": "texto aqui"
+        },
+         {
              "user_id": 4,
              "name": "Ricardo Logrado",
              "Email": "ricardologrado@qualquercoisa.com",
@@ -64,7 +75,6 @@
     
     "posts": [
       {
-        
         "id": 1,
         "title": "Example Post",
         "Task_Priority": 5,
@@ -76,10 +86,7 @@
         "department": "IT"
       },
       {
-        
-        
         "id": 2,
-       
         "title": "Another Example Post",
          "Task_Priority": 3,
         "description": "This is another example post.",
@@ -90,10 +97,7 @@
         "department": "Marketing"
       },
         {
-        "name": "Pedro Silva",
-        "Email": "pedrosilva@qualquercoisa.com",
         "id": 3,
-        "user_id": 3,
         "title": "Example Post",
         "Task_Priority": 1,
         "description": "This is an example post.",
@@ -107,7 +111,6 @@
        
              
         "id": 4,
-       
         "title": "Example Post",
         "Task_Priority": 4,
         "description": "This is an example post.",
@@ -120,7 +123,6 @@
         {
        
         "id": 5,
-        
         "title": "Example Post",
         "Task_Priority": 1,
         "description": "This is an example post.",
@@ -133,7 +135,6 @@
           {
        
         "id": 6,
-       
         "title": "Example Post",
         "Task_Priority": 1,
         "description": "This is an example post.",

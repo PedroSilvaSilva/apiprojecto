@@ -1,75 +1,5 @@
 {
-    "users": [
-        {
-            "user_id": 1,
-            "name": "Gnukadas",
-            "Email": "brunomiguel@qualquercoisa.com",
-            "foto": "null",
-            "data_nascimento": "2023-04-08T12:00:00Z",
-            "perfil_profissao": "Junior",
-            "localidade": "Junior",
-            "tipo_job": "remoto",
-            "Biografia": "texto aqui"
-            
-            
-            
-        },
-         {
-            "user_id": 2,
-            "name": "Helena Correia",
-            "Email": "helenacorreia@qualquercoisa.com",
-             "foto": "null",
-            "data_nascimento": "2023-04-08T12:00:00Z",
-            "perfil_profissao": "Junior",
-            "localidade": "Junior",
-            "tipo_job": "remoto",
-            "Biografia": "texto aqui"
-        },
-         {
-             "user_id": 3,
-             "name": "Pedro Silva",
-             "Email": "pedrosilva@qualquercoisa.com",
-             "foto": "null",
-             "data_nascimento": "2023-04-08T12:00:00Z",
-             "perfil_profissao": "Junior",
-             "localidade": "Junior",
-             "tipo_job": "remoto",
-             "Biografia": "texto aqui"
-        },
-         {
-             "user_id": 4,
-             "name": "Ricardo Logrado",
-             "Email": "ricardologrado@qualquercoisa.com",
-             "foto": "null",
-            "data_nascimento": "2023-04-08T12:00:00Z",
-            "perfil_profissao": "Junior",
-            "localidade": "Junior",
-            "tipo_job": "remoto",
-            "Biografia": "texto aqui"
-        },
-        {
-         "user_id": 5,
-        "name": "Tatiana",
-        "Email": "tatiana@qualquercoisa.com",
-            "foto": "null",
-            "data_nascimento": "2023-04-08T12:00:00Z",
-            "perfil_profissao": "Junior",
-            "localidade": "Junior",
-            "tipo_job": "remoto",
-            "Biografia": "texto aqui"
-        },
-        {
-         "user_id": 6,
-        "name": "Rui Ruigueiro",
-        "Email": "ruirigueiro@qualquercoisa.com",
-            "foto": "null",
-            "data_nascimento": "2023-04-08T12:00:00Z",
-            "perfil_profissao": "Junior",
-            "localidade": "Junior",
-            "tipo_job": "remoto",
-            "Biografia": "texto aqui"
-        }
-    ],
+    
     
     
     
@@ -143,6 +73,74 @@
         "finished_at": "2023-04-10T12:00:00Z",
         "status": "published",
         "department": "Full Stack Development"
-      }
+      },{
+            "user_id": 1,
+            "name": "Gnukadas",
+            "Email": "brunomiguel@qualquercoisa.com",
+            "foto": "null",
+            "data_nascimento": "2023-04-08T12:00:00Z",
+            "perfil_profissao": "Junior",
+            "localidade": "Junior",
+            "tipo_job": "remoto",
+            "Biografia": "texto aqui"
+            
+            
+            
+        },
+         {
+            "user_id": 2,
+            "name": "Helena Correia",
+            "Email": "helenacorreia@qualquercoisa.com",
+             "foto": "null",
+            "data_nascimento": "2023-04-08T12:00:00Z",
+            "perfil_profissao": "Junior",
+            "localidade": "Junior",
+            "tipo_job": "remoto",
+            "Biografia": "texto aqui"
+        },
+         {
+             "user_id": 3,
+             "name": "Pedro Silva",
+             "Email": "pedrosilva@qualquercoisa.com",
+             "foto": "null",
+             "data_nascimento": "2023-04-08T12:00:00Z",
+             "perfil_profissao": "Junior",
+             "localidade": "Junior",
+             "tipo_job": "remoto",
+             "Biografia": "texto aqui"
+        },
+         {
+             "user_id": 4,
+             "name": "Ricardo Logrado",
+             "Email": "ricardologrado@qualquercoisa.com",
+             "foto": "null",
+            "data_nascimento": "2023-04-08T12:00:00Z",
+            "perfil_profissao": "Junior",
+            "localidade": "Junior",
+            "tipo_job": "remoto",
+            "Biografia": "texto aqui"
+        },
+        {
+         "user_id": 5,
+        "name": "Tatiana",
+        "Email": "tatiana@qualquercoisa.com",
+            "foto": "null",
+            "data_nascimento": "2023-04-08T12:00:00Z",
+            "perfil_profissao": "Junior",
+            "localidade": "Junior",
+            "tipo_job": "remoto",
+            "Biografia": "texto aqui"
+        },
+        {
+         "user_id": 6,
+        "name": "Rui Ruigueiro",
+        "Email": "ruirigueiro@qualquercoisa.com",
+            "foto": "null",
+            "data_nascimento": "2023-04-08T12:00:00Z",
+            "perfil_profissao": "Junior",
+            "localidade": "Junior",
+            "tipo_job": "remoto",
+            "Biografia": "texto aqui"
+        }
     ]
   }

@@ -1,21 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Admin",
-      "email": "admin@example.com",
-      "permissionsLevel": "admin",
-      "category": "admin",
-      "department": "IT",
-      "photo": "https://via.placeholder.com/150",
-      "phone": "123456789",
-      "bio": "I am the admin user.",
-      "resume": "https://via.placeholder.com/150",
-      "registrationDate": "2022-04-25",
-      "location": "Lisbon"
-      "password" :"123"
-    },
-    {
     "username": "",
     "password": "",
     "email": "",
@@ -27,6 +12,7 @@
     "privileges": "",
     "id": 2
   }
+   
     
   ]
 }

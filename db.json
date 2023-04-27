@@ -1,8 +1,8 @@
 {
-  "users": [
+  "login": [
     {
       "id": 1,
-      "name": "Admin User",
+      "name": "Admin",
       "email": "admin@example.com",
       "permissionsLevel": "admin",
       "category": "admin",
@@ -13,34 +13,8 @@
       "resume": "https://via.placeholder.com/150",
       "registrationDate": "2022-04-25",
       "location": "Lisbon"
-    },
-    {
-      "id": 2,
-      "name": "Employee User",
-      "email": "employee@example.com",
-      "permissionsLevel": "employee",
-      "category": "employee",
-      "department": "HR",
-      "photo": "https://via.placeholder.com/150",
-      "phone": "987654321",
-      "bio": "I am an employee user.",
-      "resume": "https://via.placeholder.com/150",
-      "registrationDate": "2022-04-25",
-      "location": "Porto"
-    },
-    {
-      "id": 3,
-      "name": "External User",
-      "email": "external@example.com",
-      "permissionsLevel": "external",
-      "category": "external",
-      "department": "",
-      "photo": "https://via.placeholder.com/150",
-      "phone": "",
-      "bio": "I am an external user.",
-      "resume": "",
-      "registrationDate": "2022-04-25",
-      "location": ""
+      "password" :"123"
     }
+    
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "login": [
+  "users": [
     {
       "id": 1,
       "name": "Admin",
@@ -14,7 +14,19 @@
       "registrationDate": "2022-04-25",
       "location": "Lisbon"
       "password" :"123"
-    }
+    },
+    {
+    "username": "",
+    "password": "",
+    "email": "",
+    "phone": "",
+    "city": "",
+    "profession": "",
+    "bio": "",
+    "department": "",
+    "privileges": "",
+    "id": 2
+  }
     
   ]
 }

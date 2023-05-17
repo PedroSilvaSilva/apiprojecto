@@ -1,18 +1,5 @@
 {
-  "users": [
-    {
-    "username": "",
-    "password": "",
-    "email": "",
-    "phone": "",
-    "city": "",
-    "profession": "",
-    "bio": "",
-    "department": "",
-    "privileges": "",
-    "id": 2
-  }
-   
-    
-  ]
+    "email": "carretas90@gmail.com",
+    "password" : 123451236,
+    "returnSecureToken": false
 }
